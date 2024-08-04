@@ -245,4 +245,4 @@ public class JEEpaySaleResponseBean implements Serializable {
 	
 
 }
-	
+	//Changes are made in Response
